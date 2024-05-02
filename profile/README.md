@@ -23,4 +23,4 @@ _Powered by [Pimous Dev.](https://www.pimous.dev)._
 </div>
 
 ## Contact
-If you have any question, remark or thing to tell us, please send an email at `contact@pimous.dev`.
+If you have any question, remark or if you need some help, please send an email at `contact@sbpgames.fr`.
