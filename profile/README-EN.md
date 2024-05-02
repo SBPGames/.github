@@ -7,7 +7,7 @@
 A game development studio <span title="Litszro’s word">instanciated*</span> by a team of small beautiful prawns!<br>See more at our [website](https://www.sbpgames.fr).
 </div>
 
-<p align="center"><i>Language: <a href="README.md">FR</a> | EN | <a href="README-ES.md">ES</a> | <a href="README-LATIN.md">LATIN</a>.</i></p>
+<p align="center"><i>Language: <a href="/profile/README.md">FR</a> | EN | <a href="/profile/README-ES.md">ES</a> | <a href="/profile/README-LATIN.md">LATIN</a>.</i></p>
 
 ## About us
 SBP Games, <span title="Litszro’s word">instanciated*</span> by a team of small beautiful prawns, is **an independent game development studio** of narrative adventures, **partially open-source**.
@@ -27,4 +27,4 @@ _Powered by [Pimous Dev.](https://www.pimous.dev)._
 ## Contact
 If you have any question, remark or if you need some help, please send an email at `contact@sbpgames.fr`.
 
-<p align="center"><i>Language: <a href="README.md">FR</a> | EN | <a href="README-ES.md">ES</a> | <a href="README-LATIN.md">LATIN</a>.</i></p>
+<p align="center"><i>Language: <a href="/profile/README.md">FR</a> | EN | <a href="/profile/README-ES.md">ES</a> | <a href="/profile/README-LATIN.md">LATIN</a>.</i></p>

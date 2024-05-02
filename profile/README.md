@@ -7,7 +7,7 @@
 Un studio de développement de jeux vidéo <span title="Mot de Litszro">instancié*</span> par une équipe de jolies petites crevettes !<br>Pour en savoir plus, consultez notre [site web](https://www.sbpgames.fr).
 </div>
 
-<p align="center"><i>Langue: FR | <a href="README-EN.md">EN</a> | <a href="README-ES.md">ES</a> | <a href="README-LATIN.md">LATIN</a>.</i></p>
+<p align="center"><i>Langue: FR | <a href="/profile/README-EN.md">EN</a> | <a href="/profile/README-ES.md">ES</a> | <a href="/profile/README-LATIN.md">LATIN</a>.</i></p>
 
 ## À propos
 SBP Games, <span title="Mot de Litszro">instancié*</span> par une équipe de jolies petites crevettes, est un **studio de développement indépendant de jeux vidéo** d’aventures narratives, **partiellement open-source**.
@@ -27,4 +27,4 @@ _Propulsé par [Pimous Dev.](https://www.pimous.dev)._
 ## Contact
 Si vous avez une question, une remarque ou si vous avez besoin d'aide, veuillez envoyez un courriel à l'adresse suivante `contact@sbpgames.fr`.
 
-<p align="center"><i>Langue: FR | <a href="README-EN.md">EN</a> | <a href="README-ES.md">ES</a> | <a href="README-LATIN.md">LATIN</a>.</i></p>
+<p align="center"><i>Langue: FR | <a href="/profile/README-EN.md">EN</a> | <a href="/profile/README-ES.md">ES</a> | <a href="/profile/README-LATIN.md">LATIN</a>.</i></p>

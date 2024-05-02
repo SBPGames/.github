@@ -7,7 +7,7 @@
 Curabitur risus justo, consequat vulputate euismod sit amet, luctus et leo. Cras eget orci condimentum. Mauris vitae efficitur ex. Vestibulum pharetra nisl sed.
 </div>
 
-<p align="center"><i>Lingua: <a href="README.md">FR</a> | <a href="README-EN.md">EN</a> | <a href="README-ES.md">ES</a> | LATIN.</i></p>
+<p align="center"><i>Lingua: <a href="/profile/README.md">FR</a> | <a href="/profile/README-EN.md">EN</a> | <a href="/profile/README-ES.md">ES</a> | LATIN.</i></p>
 
 ## De nobis
 Etiam maximus augue placerat, condimentum dolor eu, scelerisque nisi. Donec tempor id libero ut molestie. Ut nec sodales quam. Interdum et malesuada fames.
@@ -26,4 +26,4 @@ Lorem ipsum dolor sit; **S**mall **B**eautiful **P**rawns **Games**, cum MMXXI; 
 ## Ingenium
 Quisque tristique dui vel diam vestibulum tincidunt. Etiam accumsan laoreet dapibus. Proin sit amet nunc quis enim vehicula.
 
-<p align="center"><i>Lingua: <a href="README.md">FR</a> | EN | <a href="README-ES.md">ES</a> | <a href="README-LATIN.md">LATIN</a>.</i></p>
+<p align="center"><i>Lingua: <a href="/profile/README.md">FR</a> | <a href="/profile/README-EN.md">EN</a> | <a href="/profile/README-ES.md">ES</a> | LATIN.</i></p>
