@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="../Content/Logos/SBPGames_Transparent_tempLogo.svg" alt="SBP Games temporary logo (Redirecting to our website's home page)" height="256">
+[<img src="/Content/Logos/SBPGames_Transparent_tempLogo.svg" alt="SBP Games temporary logo (Redirecting to our website's home page)" height="256">
 ](https://www.sbpgames.fr)
 
 # SBP Games
